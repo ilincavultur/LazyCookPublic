@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LazyCookPublic</string>
+    <string name="ingredient_screen">ingredient_screen</string>
+    <string name="ingredient_screen_title">Search Ingredients</string>
+    <string name="saved_recipe_screen">saved_recipe_screen</string>
+    <string name="saved_recipe_screen_title">Favorites</string>
+    <string name="search_recipe_screen">search_recipe_screen</string>
+    <string name="recipe_details_screen">recipe_details_screen</string>
 </resources>
